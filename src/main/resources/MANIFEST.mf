@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.gabrielcastilho.projetoavaliacao.view.Principal
+Class-Path: lib/library1.jar lib/library2.jar

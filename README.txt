@@ -1,0 +1,1 @@
+Caso deseje conferir utilizar o executável (arquivo .JAR), ele está presente no caminho target.
